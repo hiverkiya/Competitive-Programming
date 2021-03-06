@@ -1,28 +1,18 @@
-#include<algorithm>
 #include<iostream>
 using namespace std;
-long long solve(long long n)
-{
-    long long sum=0;
-    if(n==0)
-        return 0;
+int sum=0;
+int solve(int n)
+{   if(n%2!=0&&n%3!=0&&n%4!=0)
+     return 0;
     else
-        return sum+(solve(n/3),solve(n/2),solve(n/4));
-    return sum;
+        sum+=solve(n/2)+solve(n/3)+solve(n/4);
+
 
 }
-
 int main()
-{ long long n;
-
-    while(cin>>n)
-    {
-
-
-
-                cout<<solve(n);
-
-    }
-    return 0;
+{
+solve(12);
+cout<<sum;
+return 0;
 
 }
