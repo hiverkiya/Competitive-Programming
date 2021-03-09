@@ -17,5 +17,5 @@ if(a[i]>0&&a[i]>=a[k-1])
 sum++;
 }
 cout<<sum;
-return 0;
 }
+
