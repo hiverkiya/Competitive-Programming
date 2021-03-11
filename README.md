@@ -1,7 +1,5 @@
 # Competitive-Programming
 
-My solutions competitive programming questions from various online judges.
-
-Most of the solutions are in CPP, however you're free to add your own solutions in language of your choice
+This repository is backup for all problems solved by me and PRs are not being accepted for now.
 
 ##### Happy Coding
