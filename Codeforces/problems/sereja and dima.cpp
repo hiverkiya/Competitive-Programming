@@ -1,36 +1,39 @@
-#include<bits/stdc++.h>
-#define push_back pb
-#define endl '\n'
+#include<iostream>
+#include<algorithm>
 using namespace std;
 int main()
 {
-cin.tie(NULL);
-ios_base::sync_with_stdio(false);
-int n;
-cin>>n;
-int s=0,d=0;
-int a[n];
-for(int i=0;i<n;i++)
-{
-	cin>>a[i];
-	
-}
-int j=n-1;
-for(int i=0;i<n;i++)
-{
-	if(j>=i)
-	break;
-	if(a[i]>a[j])
+	int n;
+	cin>>n;
+	int a[n];
+	long s=0,d=0;
+	int r=n-1;
+	for(int i=0;i<n;i++)
 	{
-		s+=a[i];
-		
-	}else
-	{
-		d+=a[j];
-		j--;
+	cin>>a[i];	
 	}
+	int l=0;
+	int t=0;
+	while(l<r+1)
+	{	t++;
+		
+		if(a[l]>a[r])
+		{
+			if(t%2)
+			s+=a[l];
+			else
+			d+=a[l];
+			l++;
+			
+		}else
+		{
+			if(t%2)
+			s+=a[r];
+			else
+			d+=a[r];
+			r--;
+		}
+		
+	}
+	cout<<s<<" "<<d;
 }
-cout<<s<<" "<<d;
-return 0;
-}
-
