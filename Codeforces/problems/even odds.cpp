@@ -32,38 +32,19 @@ typedef long double lld;
 int main()
 { 
 fastio();
-int a[4][4];
-for(int i=0;i<4;i++)
-for(int j=0;j<4;j++)
+ll n,k;
+cin>>n>>k;
+vi v;
+for(int i=1;i<=n;i+=2)
+v.pb(i);
+for(int i=2;i<=n;i+=2)
+v.pb(i);
+for(int i=0;i<v.size();i++)
 {
-    cin>>a[i][j];
-}
-for(int i=0;i<3;i++)
-for(int j=0;j<3;j++)
-{
-    if
+ if(i==k-1)
+ {
+     cout<<v[i];break;
+ }   
 }
 return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
