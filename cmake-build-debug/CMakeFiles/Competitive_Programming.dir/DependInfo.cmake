@@ -1,0 +1,97 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "H:/Competitive-Programming/CSES/Counting Rooms.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/CSES/Counting_Rooms.cpp.obj"
+  "H:/Competitive-Programming/Codechef/FIRESC.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codechef/FIRESC.cpp.obj"
+  "H:/Competitive-Programming/Codechef/Long Challenge/November 2019/Division 2/Hard Sequence (HRDSEQ).cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codechef/Long_Challenge/November_2019/Division_2/Hard_Sequence_(HRDSEQ).cpp.obj"
+  "H:/Competitive-Programming/Codechef/Long Challenge/November 2019/Division 2/Weapon Value (SC31).cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codechef/Long_Challenge/November_2019/Division_2/Weapon_Value_(SC31).cpp.obj"
+  "H:/Competitive-Programming/Codeforces/acmsguru/100. A+B.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/acmsguru/100._A+B.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Beautiful Matrix.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Beautiful_Matrix.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Bitplusplus.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Bitplusplus.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Boy or Girl.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Boy_or_Girl.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Domino Piling.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Domino_Piling.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Helpful Maths.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Helpful_Maths.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Next Round.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Next_Round.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Team.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Team.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Vanya and fence.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Vanya_and_fence.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Watermelon.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Watermelon.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Way Too Long Words.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Way_Too_Long_Words.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/Word Capitalization.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/Word_Capitalization.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/aPlusB.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/aPlusB.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/anton and danik.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/anton_and_danik.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/anton and letters.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/anton_and_letters.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/bear and big brother.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/bear_and_big_brother.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/black square.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/black_square.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/buy a shovel.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/buy_a_shovel.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/carrot cakes.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/carrot_cakes.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/colorfulStonesSimplified.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/colorfulStonesSimplified.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/colorfulstones.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/colorfulstones.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/die roll.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/die_roll.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/dubstep.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/dubstep.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/fancy fence.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/fancy_fence.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/games.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/games.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/good number.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/good_number.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/gravity flip.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/gravity_flip.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/is your horseshoe on other hoof.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/is_your_horseshoe_on_other_hoof.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/juicer.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/juicer.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/magnets.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/magnets.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/night at museum.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/night_at_museum.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/petyaAndStrings.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/petyaAndStrings.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/police recruits.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/police_recruits.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/sereja and dima.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/sereja_and_dima.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/shaas and oskols.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/shaas_and_oskols.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/snow footprints.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/snow_footprints.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/soldier and bananas.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/soldier_and_bananas.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/stones on the table.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/stones_on_the_table.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/string task.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/string_task.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/twins.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/twins.cpp.obj"
+  "H:/Competitive-Programming/Codeforces/problems/word.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Codeforces/problems/word.cpp.obj"
+  "H:/Competitive-Programming/HackerEarth/Bishu and his Girlfriend.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/HackerEarth/Bishu_and_his_Girlfriend.cpp.obj"
+  "H:/Competitive-Programming/HackerEarth/Connected Components in a Graph.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/HackerEarth/Connected_Components_in_a_Graph.cpp.obj"
+  "H:/Competitive-Programming/HackerEarth/Feasible relations.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/HackerEarth/Feasible_relations.cpp.obj"
+  "H:/Competitive-Programming/HackerEarth/Jungle Run.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/HackerEarth/Jungle_Run.cpp.obj"
+  "H:/Competitive-Programming/HackerEarth/Monk and the Islands.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/HackerEarth/Monk_and_the_Islands.cpp.obj"
+  "H:/Competitive-Programming/HackerEarth/Social Networking Graph.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/HackerEarth/Social_Networking_Graph.cpp.obj"
+  "H:/Competitive-Programming/Leetcode/1.Two Sum.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Leetcode/1.Two_Sum.cpp.obj"
+  "H:/Competitive-Programming/Practice/recursion.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Practice/recursion.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/1.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/1.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/1025.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/1025.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/1030.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/1030.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/11.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/11.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/1112.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/1112.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/12156.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/12156.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/1436.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/1436.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/1437.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/1437.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/14956.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/14956.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/15711.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/15711.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/1841.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/1841.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/2123.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/2123.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/2148.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/2148.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/24.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/24.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/29154.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/29154.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/3377.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/3377.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/3410.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/3410.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/3442.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/3442.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/346.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/346.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/4.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/4.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/400.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/400.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/42.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/42.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/7974.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/7974.cpp.obj"
+  "H:/Competitive-Programming/SPOJ/9808.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/SPOJ/9808.cpp.obj"
+  "H:/Competitive-Programming/Templates/default.cpp" "H:/Competitive-Programming/cmake-build-debug/CMakeFiles/Competitive_Programming.dir/Templates/default.cpp.obj"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

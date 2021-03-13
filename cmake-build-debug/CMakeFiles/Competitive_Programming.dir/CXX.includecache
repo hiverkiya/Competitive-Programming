@@ -1,0 +1,342 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/Competitive-Programming/CSES/Counting Rooms.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codechef/FIRESC.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codechef/Long Challenge/November 2019/Division 2/Hard Sequence (HRDSEQ).cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codechef/Long Challenge/November 2019/Division 2/Weapon Value (SC31).cpp
+iostream
+-
+bits/stdc++.h
+-
+string
+-
+
+H:/Competitive-Programming/Codeforces/acmsguru/100. A+B.cpp
+iostream
+-
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/Beautiful Matrix.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/Bitplusplus.cpp
+iostream
+-
+
+H:/Competitive-Programming/Codeforces/problems/Boy or Girl.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/Domino Piling.cpp
+iostream
+-
+
+H:/Competitive-Programming/Codeforces/problems/Helpful Maths.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/Next Round.cpp
+iostream
+-
+
+H:/Competitive-Programming/Codeforces/problems/Team.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/Vanya and fence.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/Watermelon.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/Way Too Long Words.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/Word Capitalization.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/aPlusB.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/anton and danik.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/anton and letters.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/bear and big brother.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/black square.cpp
+iostream
+-
+string
+-
+
+H:/Competitive-Programming/Codeforces/problems/buy a shovel.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/carrot cakes.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/colorfulStonesSimplified.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/colorfulstones.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/die roll.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/dubstep.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/fancy fence.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/games.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/good number.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/gravity flip.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/is your horseshoe on other hoof.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/juicer.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/magnets.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/night at museum.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/petyaAndStrings.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/police recruits.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/sereja and dima.cpp
+iostream
+-
+algorithm
+-
+
+H:/Competitive-Programming/Codeforces/problems/shaas and oskols.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/snow footprints.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/soldier and bananas.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/stones on the table.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/string task.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/twins.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Codeforces/problems/word.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/HackerEarth/Bishu and his Girlfriend.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/HackerEarth/Connected Components in a Graph.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/HackerEarth/Feasible relations.cpp
+iostream
+-
+vector
+-
+
+H:/Competitive-Programming/HackerEarth/Jungle Run.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/HackerEarth/Monk and the Islands.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/HackerEarth/Social Networking Graph.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Leetcode/1.Two Sum.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Practice/recursion.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/1.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/1025.cpp
+iostream
+-
+algorithm
+-
+
+H:/Competitive-Programming/SPOJ/1030.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/11.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/1112.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/12156.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/1436.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/SPOJ/1437.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/SPOJ/14956.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/SPOJ/15711.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/1841.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/SPOJ/2123.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/2148.cpp
+iostream
+-
+string
+-
+
+H:/Competitive-Programming/SPOJ/24.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/29154.cpp
+iostream
+-
+string
+-
+
+H:/Competitive-Programming/SPOJ/3377.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/SPOJ/3410.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/3442.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/346.cpp
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/4.cpp
+iostream
+-
+stack
+-
+
+H:/Competitive-Programming/SPOJ/400.cpp
+
+H:/Competitive-Programming/SPOJ/42.cpp
+cmath
+-
+iostream
+-
+
+H:/Competitive-Programming/SPOJ/7974.cpp
+iostream
+-
+cmath
+-
+
+H:/Competitive-Programming/SPOJ/9808.cpp
+bits/stdc++.h
+-
+
+H:/Competitive-Programming/Templates/default.cpp
+bits/stdc++.h
+-
+
