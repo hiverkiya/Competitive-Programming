@@ -28,23 +28,36 @@ using namespace std;
 typedef long long ll;
 typedef unsigned long long ull;
 typedef long double lld;
-
+// 1000000000000 500000000001
 int main()
 { 
 fastio();
-ll n,k;
+vector <ull>  v;
+ull n,k;
 cin>>n>>k;
-vi v;
-for(int i=1;i<=n;i+=2)
-v.pb(i);
-for(int i=2;i<=n;i+=2)
-v.pb(i);
-for(int i=0;i<v.size();i++)
+if(k>n)
 {
- if(i==k-1)
- {
-     cout<<v[i];break;
- }   
+    ull index=k-n;
+    ull i=1;
+    ull res=2;
+    while(index!=i)
+    {
+        res+=2;;
+        i++;
+    }
+    cout<<res;
+}else
+{
+    ull index=n-k;
+    ull i=1;
+    ull res=1;
+    while(index!=i)
+    {
+        res+=2;
+        i++;
+    }
+    cout<<res;
 }
+
 return 0;
 }
