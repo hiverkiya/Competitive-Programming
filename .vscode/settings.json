@@ -1,5 +1,9 @@
 {
     "files.associations": {
-        "utility": "cpp"
+        "utility": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp"
     }
 }
